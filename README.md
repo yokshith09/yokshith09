@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Open_to_Work-LLM_%2F_AI_Engineer_Internship-7C6AFE?style=flat-square&logo=statuspage&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to_Work-LLM_%2F_AI_Engineer_-7C6AFE?style=flat-square&logo=statuspage&logoColor=white)
 
 </div>
 
