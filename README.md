@@ -136,7 +136,7 @@ GitHub Actions
 ## Now
 
 ```
-Deploying    →  DRIP & WearShare to production
+Deploying    →  Building and Scaling Appplications
 Learning     →  AI Agents, LLM internals, MCP servers, system design
 Targeting    →  LLM / AI Application Engineer internship — Remote / India
 ```
