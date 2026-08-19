@@ -83,6 +83,22 @@ AI-powered industrial-symbiosis platform using multiple specialized agents to an
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### EarlyDR — Diabetic Retinopathy Detection
+
+Deep-learning project for automated diabetic retinopathy detection and severity grading from retinal fundus images using multiple model architectures.
+
+> **The hard part:** Comparing different deep-learning architectures while handling class imbalance and evaluating performance with metrics suited to multi-class disease grading.
+
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-161B22?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-161B22?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -102,7 +118,8 @@ Gemini API · Groq API<br>
 RAG · Embeddings<br>
 Vector Search · pgvector<br>
 Prompt Engineering<br>
-AI Agents · LLM APIs
+AI Agents · LLM APIs<br>
+Deep Learning · Computer Vision
 
 </td>
 <td valign="top">
@@ -131,6 +148,7 @@ Vercel · Render
 ```
 Building     →  AI-powered web applications and product prototypes
 Learning     →  Python, JavaScript, RAG, LLM fundamentals, AI agents
+Exploring    →  Deep learning and computer vision applications
 Improving    →  Software engineering, APIs, databases, debugging
 Targeting    →  AI / Software Engineering internship — Remote / India
 ```
