@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Open_to_Work-AI_%2F_Software_Engineering_Internship-7C6AFE?style=flat-square&logo=statuspage&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to_Work-%7C_Collaborate_%7C_Freelance-7C6AFE?style=flat-square&logo=statuspage&logoColor=white)
 
 </div>
 
@@ -26,11 +26,11 @@
 
 ---
 
-Computer Science student at Amrita Vishwa Vidyapeetham (Class of 2027) building practical AI applications and full-stack products. My recent work spans **LLM integration, RAG, embeddings, vector search, AI agents, multimodal AI, computer vision, and API-driven software development**.
+Computer Science student at Amrita Vishwa Vidyapeetham (Class of 2027) building practical AI applications and full-stack software. My recent work spans **LLM integration, RAG, embeddings, vector search, AI agents, multimodal AI, computer vision, and API-driven software development**.
 
-I focus on turning ideas into working products: connecting AI models to real application data, designing practical workflows around model limitations, and iterating on applications through testing and feedback.
+I like turning real problems into working software — from AI-powered products and automation workflows to full-stack applications. I am open to **internships, freelance projects, collaborations, and building products with people who want to solve meaningful problems**.
 
-Currently building toward **AI/ML and software engineering roles**, while strengthening my foundations in Python, JavaScript, APIs, databases, machine learning, and software engineering.
+My long-term focus is **entrepreneurship**: learning by building, understanding real user needs, and turning useful software ideas into products that can create real-world value.
 
 ---
 
@@ -61,7 +61,7 @@ Full-stack neighbourhood rental marketplace with **listings, bookings, payments,
 > **The hard part:** Connecting application data to retrieval context and keeping AI responses grounded in listings, bookings, and reviews through embeddings + pgvector.
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=google&logoColor=4285F4)
-![Supabase](https://img.shields.io/badge/Supabase_pgvector-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Supabase](https://img.shields.io/badge/Supabase_pgvector-161B22?style=flat-square&logo=supabase&logoColor=3ECF60)
 ![RAG](https://img.shields.io/badge/RAG_Pipeline-161B22?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248)
 
@@ -165,20 +165,21 @@ REST APIs · API Integration
 ## Now
 
 ```text
-Building     →  AI-powered web applications, RAG systems and AI agents
+Building     →  Software that solves real problems and can become real products
+Open to      →  Work · Collaborations · Freelance projects · Product ideas
 Learning     →  Python, JavaScript, LLM fundamentals and machine learning
 Exploring    →  Computer vision, multimodal AI and production AI workflows
 Improving    →  Software engineering, APIs, databases, debugging
-Targeting    →  AI/ML and Software Engineering internships — Remote / India
+Focusing    →  Entrepreneurship, product thinking and real-world impact
 ```
 
 ---
 
 <div align="center">
 
-### Open to AI/ML & Software Engineering Opportunities
+### Open to Work · Collaborate · Freelance · Build
 
-**LLM Applications · RAG · AI Agents · Full-Stack Development · Computer Vision**
+**AI Applications · RAG · AI Agents · Full-Stack Development · Computer Vision · Product Engineering**
 
 <br>
 
@@ -192,5 +193,5 @@ Targeting    →  AI/ML and Software Engineering internships — Remote / India
 ---
 
 <div align="center">
-<sub>Amrita Vishwa Vidyapeetham &nbsp;·&nbsp; CSE 2027 &nbsp;·&nbsp; Building practical AI applications</sub>
+<sub>Amrita Vishwa Vidyapeetham &nbsp;·&nbsp; CSE 2027 &nbsp;·&nbsp; Building software that solves real problems</sub>
 </div>
