@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:16103A,100:0D1117&height=155&section=header&text=Yokshith%20Kuchipudi&fontSize=46&fontColor=E6EDF3&fontAlignY=44&desc=AI%20Application%20Developer%20%E2%80%94%20LLM%20%2B%20Full-Stack&descSize=14&descColor=7C6AFE&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:16103A,100:0D1117&height=155&section=header&text=Yokshith%20Kuchipudi&fontSize=46&fontColor=E6EDF3&fontAlignY=44&desc=AI%20Application%20Developer%20%E2%80%94%20Full-Stack%20%2B%20LLM%20Integration&descSize=14&descColor=7C6AFE&descAlignY=68" />
 
 </div>
 
@@ -26,81 +26,114 @@
 
 ---
 
-## About Me
+Computer Science student at Amrita Vishwa Vidyapeetham (Class of 2027) building AI-powered web applications and product prototypes. My recent work focuses on **LLM APIs, RAG pipelines, embeddings, vector search, prompt engineering, AI agents, and practical full-stack development**.
 
-Computer Science student at **Amrita Vishwa Vidyapeetham (Class of 2027)** building AI-powered web applications and product prototypes. My recent work focuses on **LLM APIs, RAG, vector search, AI agents, prompt engineering, and practical full-stack development**.
+I enjoy turning an idea into a working product, connecting AI capabilities to real application workflows, and iterating on the result through testing and user feedback.
 
-I use AI-assisted development heavily, but my goal is to turn those projects into skills I can explain, debug, and improve myself. I am currently strengthening my foundations in **Python, JavaScript, web development, databases, and AI application engineering**.
-
-Alongside development, I have experience in **business development at Franco Rugs**, giving me exposure to customer needs, product positioning, and real-world business problems.
+Concurrently doing business development at **Franco Rugs**, giving me exposure to customer needs, product positioning, and real-world business problems.
 
 ---
 
 ## Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### DRIP — AI Fashion Fitting Room
 
-An AI-powered fashion application combining virtual try-on, personalized outfit recommendations, product discovery, and an AI stylist experience.
+AI-powered fashion application combining virtual try-on, personalized outfit recommendations, product discovery, and an AI stylist experience.
 
-- Integrated multiple external AI providers for virtual try-on generation with fallback behaviour when a provider is unavailable or rate-limited.
-- Used Gemini for outfit recommendations, styling conversations, and personalized product suggestions.
-- Built the application as a complete product experience rather than a standalone AI demo.
+> **The hard part:** Connecting multiple external AI providers and designing fallback behaviour when a provider is unavailable or rate-limited.
 
-### WearShare — P2P Clothing Rental Platform
+![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=google&logoColor=4285F4)
+![Replicate](https://img.shields.io/badge/Replicate-161B22?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white)
 
-A peer-to-peer clothing rental marketplace with authentication, listings, bookings, payments, dashboards, reviews, and rental tracking.
+</td>
+<td width="50%" valign="top">
 
-- Built **Wren**, an AI assistant using Gemini, embeddings, and pgvector-based retrieval to answer questions using platform data such as listings, bookings, and reviews.
-- Implemented streamed AI responses and voice input, and iteratively improved prompts and retrieval context using real user queries.
+### WearShare — P2P Clothing Rental
+
+Neighbourhood rental marketplace with **Wren**, an AI assistant built using Gemini, embeddings and pgvector retrieval over platform data.
+
+> **The hard part:** Connecting application data to retrieval context and keeping AI responses relevant to listings, bookings, and reviews.
+
+![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=google&logoColor=4285F4)
+![Supabase](https://img.shields.io/badge/Supabase_pgvector-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-161B22?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### SymBioForge — AI Agent Platform
 
-An AI-powered industrial-symbiosis platform that uses multiple specialized agents to analyze industrial waste, discover resource matches, generate product ideas, and monitor system activity.
+AI-powered industrial-symbiosis platform using multiple specialized agents to analyze industrial waste, discover resource matches, generate product ideas, and monitor system activity.
 
-- Designed an automated workflow where specialized AI agents handle different stages of the problem from data processing to opportunity generation.
-- Built a web-based interface to monitor agent activity, results, and system state.
+> **The hard part:** Designing a multi-step AI workflow where different agents handle separate stages of the same problem and pass structured results forward.
 
----
+![AI Agents](https://img.shields.io/badge/AI_Agents-161B22?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-161B22?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white)
+![AI](https://img.shields.io/badge/LLM_Integration-161B22?style=flat-square)
 
-## Skills
-
-### AI & Generative AI
-
-Gemini API · Groq API · Prompt Engineering · RAG · Embeddings · Vector Search · pgvector · AI Agents · LLM Integration
-
-### Programming
-
-Python · JavaScript
-
-### Web Development
-
-Next.js · Node.js · Flask · HTML · CSS · REST APIs
-
-### Databases
-
-PostgreSQL · Supabase · MongoDB · SQLite
-
-### Tools & Platforms
-
-Git · GitHub · VS Code · Vercel · Render
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Learning
+## Stack
 
-```text
-AI Engineering      →  RAG systems, agents, MCP, LLM fundamentals
-Software Engineering →  Python, JavaScript, APIs, databases, debugging
-Product Building     →  Turning AI prototypes into reliable applications
-Career Focus         →  AI / Software Engineering internships
+<table>
+<tr>
+<th align="left" width="33%">AI · ML</th>
+<th align="left" width="33%">Engineering</th>
+<th align="left" width="34%">Data · Tools</th>
+</tr>
+<tr>
+<td valign="top">
+
+Gemini API · Groq API<br>
+RAG · Embeddings<br>
+Vector Search · pgvector<br>
+Prompt Engineering<br>
+AI Agents · LLM APIs
+
+</td>
+<td valign="top">
+
+Python · JavaScript<br>
+Next.js · Node.js<br>
+Flask · REST APIs<br>
+HTML · CSS
+
+</td>
+<td valign="top">
+
+PostgreSQL · Supabase<br>
+MongoDB · SQLite<br>
+Git · GitHub · VS Code<br>
+Vercel · Render
+
+</td>
+</tr>
+</table>
+
+---
+
+## Now
+
 ```
-
----
-
-## Experience
-
-**Business Development Intern — Franco Rugs**  
-Worked on market research, competitor benchmarking, B2B sales material, and client-facing business development.
+Building     →  AI-powered web applications and product prototypes
+Learning     →  Python, JavaScript, RAG, LLM fundamentals, AI agents
+Improving    →  Software engineering, APIs, databases, debugging
+Targeting    →  AI / Software Engineering internship — Remote / India
+```
 
 ---
 
