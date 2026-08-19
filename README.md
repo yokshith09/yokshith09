@@ -117,44 +117,48 @@ Security-focused password manager with a local-first vault and backend authentic
 
 ---
 
-## Stack
+## Skills & Tools
 
 <table>
 <tr>
+<th align="left" width="33%">Languages</th>
 <th align="left" width="33%">AI · ML</th>
-<th align="left" width="33%">Engineering</th>
-<th align="left" width="34%">Data · Tools</th>
+<th align="left" width="34%">Tools · Platforms</th>
 </tr>
 <tr>
 <td valign="top">
 
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+</td>
+<td valign="top">
+
 Gemini API · Groq API<br>
-RAG · Embeddings<br>
-Vector Search · pgvector<br>
+RAG · Embeddings · pgvector<br>
 Prompt Engineering<br>
-AI Agents · LLM APIs<br>
-Computer Vision · YOLOv8
+AI Agents · MCP<br>
+Computer Vision · YOLOv8<br>
+Deep Learning · LLM APIs
 
 </td>
 <td valign="top">
 
-Python · JavaScript<br>
-Next.js · Node.js<br>
-Flask · REST APIs<br>
-HTML · CSS<br>
-API Integration
-
-</td>
-<td valign="top">
-
+Git · GitHub · VS Code<br>
+Next.js · Node.js · Flask<br>
 PostgreSQL · Supabase<br>
 MongoDB · SQLite<br>
-Git · GitHub · VS Code<br>
-Vercel · Render
+Vercel · Render<br>
+REST APIs · API Integration
 
 </td>
 </tr>
 </table>
+
+### Core Engineering Skills
+
+`REST APIs` · `API Integration` · `RAG Pipelines` · `Vector Search` · `Prompt Engineering` · `Authentication` · `Database Design` · `Backend Development` · `Debugging` · `Problem Solving` · `AI-Assisted Development`
 
 ---
 
@@ -172,9 +176,16 @@ Targeting    →  AI/ML and Software Engineering internships — Remote / India
 
 <div align="center">
 
-<img height="162em" src="https://github-readme-stats.vercel.app/api?username=yokshith09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C6AFE&icon_color=9B8EF7&text_color=8B9EB7&count_private=true"/>
-&nbsp;&nbsp;
-<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokshith09&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=7C6AFE&text_color=8B9EB7"/>
+### Open to AI/ML & Software Engineering Opportunities
+
+**LLM Applications · RAG · AI Agents · Full-Stack Development · Computer Vision**
+
+<br>
+
+[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/yokshith09)
 
 </div>
 
