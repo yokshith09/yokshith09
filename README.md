@@ -26,11 +26,11 @@
 
 ---
 
-Computer Science student at Amrita Vishwa Vidyapeetham (Class of 2027) building AI-powered web applications and product prototypes. My recent work focuses on **LLM APIs, RAG pipelines, embeddings, vector search, prompt engineering, AI agents, and practical full-stack development**.
+Computer Science student at Amrita Vishwa Vidyapeetham (Class of 2027) building practical AI applications and full-stack products. My recent work spans **LLM integration, RAG, embeddings, vector search, AI agents, multimodal AI, computer vision, and API-driven software development**.
 
-I enjoy turning an idea into a working product, connecting AI capabilities to real application workflows, and iterating on the result through testing and user feedback.
+I focus on turning ideas into working products: connecting AI models to real application data, designing practical workflows around model limitations, and iterating on applications through testing and feedback.
 
-Concurrently doing business development at **Franco Rugs**, giving me exposure to customer needs, product positioning, and real-world business problems.
+Currently building toward **AI/ML and software engineering roles**, while strengthening my foundations in Python, JavaScript, APIs, databases, machine learning, and software engineering.
 
 ---
 
@@ -42,9 +42,9 @@ Concurrently doing business development at **Franco Rugs**, giving me exposure t
 
 ### DRIP — AI Fashion Fitting Room
 
-AI-powered fashion application combining virtual try-on, personalized outfit recommendations, product discovery, and an AI stylist experience.
+AI-powered fashion application combining **virtual try-on, personalized outfit recommendations, product discovery, and an AI stylist**.
 
-> **The hard part:** Connecting multiple external AI providers and designing fallback behaviour when a provider is unavailable or rate-limited.
+> **The hard part:** Connecting multiple external AI providers and designing fallback behaviour for provider failures and rate limits while keeping the product experience usable.
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=google&logoColor=4285F4)
 ![Replicate](https://img.shields.io/badge/Replicate-161B22?style=flat-square)
@@ -56,9 +56,9 @@ AI-powered fashion application combining virtual try-on, personalized outfit rec
 
 ### WearShare — P2P Clothing Rental
 
-Neighbourhood rental marketplace with **Wren**, an AI assistant built using Gemini, embeddings and pgvector retrieval over platform data.
+Full-stack neighbourhood rental marketplace with **listings, bookings, payments, dashboards, reviews, and Wren**, a Gemini-powered RAG assistant.
 
-> **The hard part:** Connecting application data to retrieval context and keeping AI responses relevant to listings, bookings, and reviews.
+> **The hard part:** Connecting application data to retrieval context and keeping AI responses grounded in listings, bookings, and reviews through embeddings + pgvector.
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=google&logoColor=4285F4)
 ![Supabase](https://img.shields.io/badge/Supabase_pgvector-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E)
@@ -70,32 +70,46 @@ Neighbourhood rental marketplace with **Wren**, an AI assistant built using Gemi
 <tr>
 <td colspan="2" valign="top">
 
-### SymBioForge — AI Agent Platform
+### SymBioForge — Autonomous Multi-Agent AI Platform
 
-AI-powered industrial-symbiosis platform using multiple specialized agents to analyze industrial waste, discover resource matches, generate product ideas, and monitor system activity.
+AI-powered industrial-symbiosis platform using **8 specialized agents** to register factories, classify waste, discover resource matches, generate product concepts, validate impact, design manufacturing pathways, and monitor system health.
 
-> **The hard part:** Designing a multi-step AI workflow where different agents handle separate stages of the same problem and pass structured results forward.
+> **The hard part:** Coordinating a multi-stage AI workflow where specialized agents pass structured results through an automated pipeline, with monitoring and recovery built around the workflow.
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-161B22?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-161B22?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white)
-![AI](https://img.shields.io/badge/LLM_Integration-161B22?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM_Workflows-161B22?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### EarlyDR — Diabetic Retinopathy Detection
+### WeedPlucker — Computer Vision for Precision Agriculture
 
-Deep-learning project for automated diabetic retinopathy detection and severity grading from retinal fundus images using multiple model architectures.
+YOLOv8-based crop/weed detection and segmentation pipeline designed to turn camera input into object coordinates for downstream robotic action.
 
-> **The hard part:** Comparing different deep-learning architectures while handling class imbalance and evaluating performance with metrics suited to multi-class disease grading.
+> **The hard part:** Building the complete vision pipeline from dataset preparation and augmentation through segmentation inference and quantitative evaluation.
 
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-161B22?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-161B22?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-161B22?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### PasswordPal — Privacy-Focused Password Manager
+
+Security-focused password manager with a local-first vault and backend authentication workflows.
+
+> **The hard part:** Designing secure application workflows around encrypted vault data, authentication, MFA, session management, and database-backed user accounts.
+
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Security](https://img.shields.io/badge/Security-161B22?style=flat-square)
+![MFA](https://img.shields.io/badge/MFA-161B22?style=flat-square)
 
 </td>
 </tr>
@@ -119,7 +133,7 @@ RAG · Embeddings<br>
 Vector Search · pgvector<br>
 Prompt Engineering<br>
 AI Agents · LLM APIs<br>
-Deep Learning · Computer Vision
+Computer Vision · YOLOv8
 
 </td>
 <td valign="top">
@@ -127,7 +141,8 @@ Deep Learning · Computer Vision
 Python · JavaScript<br>
 Next.js · Node.js<br>
 Flask · REST APIs<br>
-HTML · CSS
+HTML · CSS<br>
+API Integration
 
 </td>
 <td valign="top">
@@ -145,12 +160,12 @@ Vercel · Render
 
 ## Now
 
-```
-Building     →  AI-powered web applications and product prototypes
-Learning     →  Python, JavaScript, RAG, LLM fundamentals, AI agents
-Exploring    →  Deep learning and computer vision applications
+```text
+Building     →  AI-powered web applications, RAG systems and AI agents
+Learning     →  Python, JavaScript, LLM fundamentals and machine learning
+Exploring    →  Computer vision, multimodal AI and production AI workflows
 Improving    →  Software engineering, APIs, databases, debugging
-Targeting    →  AI / Software Engineering internship — Remote / India
+Targeting    →  AI/ML and Software Engineering internships — Remote / India
 ```
 
 ---
