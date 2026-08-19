@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:16103A,100:0D1117&height=155&section=header&text=Yokshith%20Kuchipudi&fontSize=46&fontColor=E6EDF3&fontAlignY=44&desc=AI%20Application%20Engineer%20%E2%80%94%20Full-Stack%20%2B%20LLM%20Integration&descSize=14&descColor=7C6AFE&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:16103A,100:0D1117&height=155&section=header&text=Yokshith%20Kuchipudi&fontSize=46&fontColor=E6EDF3&fontAlignY=44&desc=AI%20Application%20Developer%20%E2%80%94%20LLM%20%2B%20Full-Stack&descSize=14&descColor=7C6AFE&descAlignY=68" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Open_to_Work-LLM_%2F_AI_Engineer_Internship-7C6AFE?style=flat-square&logo=statuspage&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to_Work-AI_%2F_Software_Engineering_Internship-7C6AFE?style=flat-square&logo=statuspage&logoColor=white)
 
 </div>
 
@@ -26,120 +26,81 @@
 
 ---
 
-Final-year CS student at Amrita Vishwa Vidyapeetham (Class of 2027) building production-grade AI applications — RAG pipelines with vector embeddings, multi-provider virtual try-on systems with fallback chains, and real-time CV models deployed on edge hardware.
+## About Me
 
-My focus is on the engineering layer: why a particular architecture works, where it fails under real conditions, and how to build around the failure. Not just calling the API.
+Computer Science student at **Amrita Vishwa Vidyapeetham (Class of 2027)** building AI-powered web applications and product prototypes. My recent work focuses on **LLM APIs, RAG, vector search, AI agents, prompt engineering, and practical full-stack development**.
 
-Concurrently doing business development at **Franco Rugs** — which means I understand product-market fit, not just pull requests.
+I use AI-assisted development heavily, but my goal is to turn those projects into skills I can explain, debug, and improve myself. I am currently strengthening my foundations in **Python, JavaScript, web development, databases, and AI application engineering**.
+
+Alongside development, I have experience in **business development at Franco Rugs**, giving me exposure to customer needs, product positioning, and real-world business problems.
 
 ---
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### DRIP — AI Fashion Fitting Room
 
-Virtual try-on platform with a **3-tier provider chain**: Replicate as primary, HuggingFace as fallback, Kling AI via PiAPI as alternative. Browser-side accessories try-on via MediaPipe — zero server round-trips. Gemini API for outfit recommendations.
+An AI-powered fashion application combining virtual try-on, personalized outfit recommendations, product discovery, and an AI stylist experience.
 
-> **The hard part:** Graceful degradation across three providers without visible latency spikes at tier switchover.
+- Integrated multiple external AI providers for virtual try-on generation with fallback behaviour when a provider is unavailable or rate-limited.
+- Used Gemini for outfit recommendations, styling conversations, and personalized product suggestions.
+- Built the application as a complete product experience rather than a standalone AI demo.
 
-![Next.js](https://img.shields.io/badge/Next.js_16-161B22?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
-![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=google&logoColor=4285F4)
-![Replicate](https://img.shields.io/badge/Replicate-161B22?style=flat-square)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-161B22?style=flat-square)
+### WearShare — P2P Clothing Rental Platform
 
-</td>
-<td width="50%" valign="top">
+A peer-to-peer clothing rental marketplace with authentication, listings, bookings, payments, dashboards, reviews, and rental tracking.
 
-### WearShare — P2P Clothing Rental
+- Built **Wren**, an AI assistant using Gemini, embeddings, and pgvector-based retrieval to answer questions using platform data such as listings, bookings, and reviews.
+- Implemented streamed AI responses and voice input, and iteratively improved prompts and retrieval context using real user queries.
 
-Neighbourhood rental marketplace with **Wren**, a production RAG chatbot built on Gemini 1.5 Flash + pgvector + text-embedding-004. SSE streaming responses, Hindi/English voice input via Web Speech API.
+### SymBioForge — AI Agent Platform
 
-> **The hard part:** Building the ingestion pipeline (MongoDB → Supabase pgvector) and keeping retrieval relevant at neighbourhood-level data density.
+An AI-powered industrial-symbiosis platform that uses multiple specialized agents to analyze industrial waste, discover resource matches, generate product ideas, and monitor system activity.
 
-![Next.js](https://img.shields.io/badge/Next.js_14-161B22?style=flat-square&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase_pgvector-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![RAG](https://img.shields.io/badge/RAG_Pipeline-161B22?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Weed Detection — Edge AI for Precision Agriculture
-
-YOLOv8 instance segmentation for weed vs. crop classification, exported to ONNX and optimized for **real-time inference on Raspberry Pi 4** — no cloud dependency, no network latency.
-
-> **The hard part:** Hitting acceptable inference latency on constrained ARM hardware while preserving segmentation accuracy sufficient for field conditions.
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-161B22?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![ONNX](https://img.shields.io/badge/ONNX-161B22?style=flat-square&logo=onnx&logoColor=005CED)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_4-161B22?style=flat-square&logo=raspberry-pi&logoColor=C51A4A)
-![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8)
-
-</td>
-</tr>
-</table>
+- Designed an automated workflow where specialized AI agents handle different stages of the problem from data processing to opportunity generation.
+- Built a web-based interface to monitor agent activity, results, and system state.
 
 ---
 
-## Stack
+## Skills
 
-<table>
-<tr>
-<th align="left" width="33%">AI · ML</th>
-<th align="left" width="33%">Engineering</th>
-<th align="left" width="34%">Data · Infra</th>
-</tr>
-<tr>
-<td valign="top">
+### AI & Generative AI
 
-Gemini API · Replicate<br>
-HuggingFace · ONNX<br>
-YOLOv8 · PyTorch<br>
-MediaPipe · OpenCV<br>
-RAG · pgvector<br>
-text-embedding-004
+Gemini API · Groq API · Prompt Engineering · RAG · Embeddings · Vector Search · pgvector · AI Agents · LLM Integration
 
-</td>
-<td valign="top">
+### Programming
 
-Next.js · React<br>
-TypeScript · TailwindCSS<br>
-Python · Flask<br>
-Node.js · REST APIs<br>
-SSE Streaming<br>
-Web Speech API
+Python · JavaScript
 
-</td>
-<td valign="top">
+### Web Development
 
-PostgreSQL · Supabase<br>
-MongoDB · pgvector<br>
-Git · Linux<br>
-Raspberry Pi 4<br>
-Vercel<br>
-GitHub Actions
+Next.js · Node.js · Flask · HTML · CSS · REST APIs
 
-</td>
-</tr>
-</table>
+### Databases
+
+PostgreSQL · Supabase · MongoDB · SQLite
+
+### Tools & Platforms
+
+Git · GitHub · VS Code · Vercel · Render
 
 ---
 
-## Now
+## Currently Learning
 
+```text
+AI Engineering      →  RAG systems, agents, MCP, LLM fundamentals
+Software Engineering →  Python, JavaScript, APIs, databases, debugging
+Product Building     →  Turning AI prototypes into reliable applications
+Career Focus         →  AI / Software Engineering internships
 ```
-Deploying    →  Building and Scaling Appplications
-Learning     →  AI Agents, LLM internals, MCP servers, system design
-Targeting    →  LLM / AI Application Engineer internship — Remote / India
-```
+
+---
+
+## Experience
+
+**Business Development Intern — Franco Rugs**  
+Worked on market research, competitor benchmarking, B2B sales material, and client-facing business development.
 
 ---
 
@@ -154,5 +115,5 @@ Targeting    →  LLM / AI Application Engineer internship — Remote / India
 ---
 
 <div align="center">
-<sub>Amrita Vishwa Vidyapeetham &nbsp;·&nbsp; CSE 2027 &nbsp;·&nbsp; Building AI products from first principles</sub>
+<sub>Amrita Vishwa Vidyapeetham &nbsp;·&nbsp; CSE 2027 &nbsp;·&nbsp; Building practical AI applications</sub>
 </div>
