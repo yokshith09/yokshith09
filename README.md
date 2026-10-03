@@ -118,7 +118,7 @@ Security-focused password manager with a local-first vault and backend authentic
 ---
 
 ## Skills & Tools
-<center><table>
+<table>
 <tr>
 <th align="left" width="33%">Languages</th>
 <th align="left" width="33%">AI · ML</th>
@@ -158,7 +158,6 @@ REST APIs · API Integration
 ### Core Engineering Skills
 
 `REST APIs` · `API Integration` · `RAG Pipelines` · `Vector Search` · `Prompt Engineering` · `Authentication` · `Database Design` · `Backend Development` · `Debugging` · `Problem Solving` · `AI-Assisted Development`
-</center>
 ---
 
 ## Now
