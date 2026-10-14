@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yokshith09/yokshith09/main/profile-terminal.svg?v=2" alt="Animated terminal-style profile for Yokshith" width="100%" />
+<img src="https://raw.githubusercontent.com/yokshith09/yokshith09/main/profile-terminal.svg?v=3" alt="Animated terminal-style profile for Yokshith" width="100%" />
 
 </div>
 
