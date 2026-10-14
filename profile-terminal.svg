@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080f17"/><stop offset="1" stop-color="#03080d"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#168cff"/><stop offset="1" stop-color="#46c6ff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3.6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>
+ .mono{font-family:Consolas,'Liberation Mono',monospace}
+ .cyan{fill:#22aaff}.white{fill:#dce8f4}.orange{fill:#ffad35}.green{fill:#18c978}.muted{fill:#63809a}
+ .heading{font-size:23px;font-weight:700}.label{font-size:18px;font-weight:700}.body{font-size:18px}.tech{font-size:16px}.small{font-size:15px}
+ .panel{fill:#080f17;stroke:#1b354b;stroke-width:1.5}.rule{stroke:#526b80;stroke-width:1.4}
+ a{text-decoration:none}
+ </style>
+</defs>
+<rect width="1600" height="1000" rx="18" fill="url(#bg)"/>
+<rect x="14" y="14" width="1572" height="972" rx="14" fill="none" stroke="#203d54" stroke-width="1.5"/>
+<text x="48" y="62" class="mono" font-size="21"><tspan class="cyan" font-weight="700">yokshith</tspan><tspan class="green">@github</tspan><tspan class="white">:~$ whoami</tspan></text>
+<text x="780" y="62" class="mono cyan" font-size="21" font-weight="700">yokshith09@github</text><line x1="1000" y1="56" x2="1558" y2="56" class="rule"/>
+
+<!-- Name is native SVG text; SMIL animates the letters and cursor without nested images or JavaScript. -->
+<text x="78" y="294" class="mono" font-size="91" font-weight="900" fill="url(#blue)" filter="url(#glow)" letter-spacing="2">
+ <tspan>Y</tspan><tspan>O</tspan><tspan>K</tspan><tspan>S</tspan><tspan>H</tspan><tspan>I</tspan><tspan>T</tspan><tspan>H</tspan>
+ <animate attributeName="fill" values="#168cff;#67d2ff;#168cff" dur="2.6s" repeatCount="indefinite"/>
+ <animate attributeName="opacity" values="0.86;1;0.86" dur="2.6s" repeatCount="indefinite"/>
+</text>
+<text x="650" y="294" class="mono" font-size="91" font-weight="400" fill="#67d2ff">▏<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.48;0.49;1" dur="1s" repeatCount="indefinite"/></text>
+<text x="98" y="373" class="mono cyan" font-size="25" font-weight="700">&gt; AI Builder<animate attributeName="opacity" values="0.2;1" dur=".65s" begin="0s" fill="freeze"/></text>
+<text x="98" y="414" class="mono orange" font-size="25" font-weight="700">&gt; Full Stack Developer<animate attributeName="opacity" values="0.2;1" dur=".65s" begin=".25s" fill="freeze"/></text>
+<text x="98" y="455" class="mono green" font-size="25" font-weight="700">&gt; Open Source Contributor<animate attributeName="opacity" values="0.2;1" dur=".65s" begin=".5s" fill="freeze"/></text>
+<text x="98" y="496" class="mono white" font-size="24">&gt; Turning Ideas Into Products.<animate attributeName="opacity" values="0.2;1" dur=".65s" begin=".75s" fill="freeze"/></text>
+
+<text x="782" y="105" class="mono body"><tspan class="cyan">▣</tspan><tspan dx="18" class="orange" font-weight="700">OS</tspan><tspan dx="24" class="muted">................................</tspan><tspan dx="18" class="white">Windows, macOS, Linux</tspan></text>
+<text x="782" y="137" class="mono body"><tspan class="cyan">◆</tspan><tspan dx="18" class="orange" font-weight="700">Education</tspan><tspan dx="24" class="muted">..................</tspan><tspan dx="18" class="white">Computer Science Undergraduate</tspan></text>
+<text x="782" y="169" class="mono body"><tspan class="cyan">▤</tspan><tspan dx="18" class="orange" font-weight="700">University</tspan><tspan dx="24" class="muted">..................</tspan><tspan dx="18" class="white">Amrita Vishwa Vidyapeetham</tspan></text>
+<text x="782" y="201" class="mono body"><tspan class="cyan">▦</tspan><tspan dx="18" class="orange" font-weight="700">Graduation</tspan><tspan dx="24" class="muted">.................</tspan><tspan dx="18" class="white">2027</tspan></text>
+<text x="782" y="233" class="mono body"><tspan class="cyan">◎</tspan><tspan dx="18" class="orange" font-weight="700">Focus</tspan><tspan dx="24" class="muted">........................</tspan><tspan dx="18" class="white">AI Apps, LLMs, Agents, Full Stack</tspan></text>
+<text x="782" y="265" class="mono body"><tspan class="cyan">∿</tspan><tspan dx="18" class="orange" font-weight="700">Status</tspan><tspan dx="24" class="muted">.......................</tspan><tspan dx="18" class="green">●</tspan><tspan dx="12" class="white">Open to opportunities</tspan></text>
+
+<text x="782" y="314" class="mono heading cyan">Languages &amp; Technologies</text><line x1="1080" y1="307" x2="1558" y2="307" class="rule"/>
+<text x="782" y="344" class="mono tech"><tspan class="cyan">&lt;/&gt;</tspan><tspan dx="12" class="orange" font-weight="700">Languages</tspan><tspan dx="14" class="muted">..............</tspan><tspan dx="12" class="white">Python, JavaScript, TypeScript, Java, SQL, Rust</tspan></text>
+<text x="782" y="367" class="mono tech"><tspan class="cyan">▱</tspan><tspan dx="12" class="orange" font-weight="700">Frontend</tspan><tspan dx="20" class="muted">..............</tspan><tspan dx="12" class="white">React, Next.js, Tailwind, HTML, CSS</tspan></text>
+<text x="782" y="390" class="mono tech"><tspan class="cyan">▣</tspan><tspan dx="12" class="orange" font-weight="700">Backend</tspan><tspan dx="23" class="muted">..............</tspan><tspan dx="12" class="white">Node.js, Express, FastAPI, Flask, REST APIs</tspan></text>
+<text x="782" y="413" class="mono tech"><tspan class="cyan">♧</tspan><tspan dx="12" class="orange" font-weight="700">AI / Agents</tspan><tspan dx="6" class="muted">..............</tspan><tspan dx="12" class="white">LLMs, RAG, embeddings, vector search, MCP</tspan></text>
+<text x="782" y="436" class="mono tech"><tspan class="cyan">▤</tspan><tspan dx="12" class="orange" font-weight="700">Databases</tspan><tspan dx="12" class="muted">..............</tspan><tspan dx="12" class="white">PostgreSQL, MongoDB, Supabase, Firebase, SQLite</tspan></text>
+<text x="782" y="459" class="mono tech"><tspan class="cyan">☁</tspan><tspan dx="12" class="orange" font-weight="700">Cloud</tspan><tspan dx="42" class="muted">................</tspan><tspan dx="12" class="white">GCP, Cloud Run, Logging, Monitoring, cost insights</tspan></text>
+<text x="782" y="482" class="mono tech"><tspan class="cyan">◎</tspan><tspan dx="12" class="orange" font-weight="700">Robotics</tspan><tspan dx="22" class="muted">..............</tspan><tspan dx="12" class="white">CoppeliaSim, SLAM, OpenCV, YOLOv8, SDN</tspan></text>
+<text x="782" y="505" class="mono" font-size="15"><tspan class="cyan">⚒</tspan><tspan dx="12" class="orange" font-weight="700">Tools</tspan><tspan dx="45" class="muted">................</tspan><tspan dx="12" class="white">Git, Docker, VS Code, Linux, Tauri, Apify, Gemini, Groq, HF, Replicate</tspan></text>
+
+<text x="782" y="548" class="mono heading cyan">Contact</text><line x1="882" y1="541" x2="1558" y2="541" class="rule"/>
+<a xlink:href="mailto:yokshithkuchipudi09@gmail.com"><text x="782" y="579" class="mono body"><tspan class="cyan">✉</tspan><tspan dx="18" class="orange" font-weight="700">Email</tspan><tspan dx="30" class="muted">............................</tspan><tspan dx="14" class="white">yokshithkuchipudi09@gmail.com</tspan></text></a>
+<a xlink:href="https://www.linkedin.com/in/yokshith-kuchipudi-67a0452b3/"><text x="782" y="610" class="mono body"><tspan class="cyan">in</tspan><tspan dx="18" class="orange" font-weight="700">LinkedIn</tspan><tspan dx="17" class="muted">..........................</tspan><tspan dx="14" class="white">linkedin.com/in/yokshith-kuchipudi</tspan></text></a>
+<a xlink:href="https://github.com/yokshith09"><text x="782" y="641" class="mono body"><tspan class="cyan">◉</tspan><tspan dx="18" class="orange" font-weight="700">GitHub</tspan><tspan dx="27" class="muted">...........................</tspan><tspan dx="14" class="white">github.com/yokshith09</tspan></text></a>
+<line x1="36" y1="662" x2="1564" y2="662" class="rule"/>
+
+<rect x="36" y="691" width="735" height="224" rx="12" class="panel"/><rect x="791" y="691" width="360" height="224" rx="12" class="panel"/><rect x="1171" y="691" width="393" height="224" rx="12" class="panel"/>
+<text x="60" y="728" class="mono heading cyan">▱ Featured Projects</text>
+<a xlink:href="https://github.com/yokshith09/DRIP---AI-3D-VIRTUAL-TRY-ON-WEB"><text x="60" y="766" class="mono label green">➜</text><text x="96" y="766" class="mono label orange">DRIP AI</text></a><text x="220" y="766" class="mono small white">AI fashion &amp; virtual try-on</text><rect x="488" y="746" width="90" height="29" rx="10" fill="#0c2132" stroke="#087dcc"/><text x="500" y="766" class="mono small cyan">Next.js</text><rect x="590" y="746" width="70" height="29" rx="10" fill="#18132a" stroke="#7450e9"/><text x="603" y="766" class="mono small" fill="#bd9aff">LLMs</text><rect x="670" y="746" width="76" height="29" rx="10" fill="#06251e" stroke="#009f76"/><text x="683" y="766" class="mono small green">RAG</text>
+<a xlink:href="https://github.com/yokshith09/WEARSHARE-APP"><text x="60" y="802" class="mono label green">➜</text><text x="96" y="802" class="mono label orange">WearShare</text></a><text x="220" y="802" class="mono small white">Peer-to-peer clothing rental</text><rect x="488" y="782" width="68" height="29" rx="10" fill="#0c2132" stroke="#087dcc"/><text x="500" y="802" class="mono small cyan">React</text><rect x="566" y="782" width="84" height="29" rx="10" fill="#06251e" stroke="#009f76"/><text x="577" y="802" class="mono small green">Node.js</text><rect x="660" y="782" width="86" height="29" rx="10" fill="#06251e" stroke="#009f76"/><text x="669" y="802" class="mono small green">MongoDB</text>
+<a xlink:href="https://github.com/yokshith09/SymBioforge-NitroStack-MCP"><text x="60" y="838" class="mono label green">➜</text><text x="96" y="838" class="mono label orange">SymBioForge</text></a><text x="220" y="838" class="mono small white">Multi-agent AI platform</text><rect x="488" y="818" width="78" height="29" rx="10" fill="#0c2132" stroke="#087dcc"/><text x="500" y="838" class="mono small cyan">Python</text><rect x="578" y="818" width="83" height="29" rx="10" fill="#18132a" stroke="#7450e9"/><text x="590" y="838" class="mono small" fill="#bd9aff">Agents</text><rect x="673" y="818" width="73" height="29" rx="10" fill="#06251e" stroke="#009f76"/><text x="680" y="838" class="mono small green">Vector DB</text>
+<a xlink:href="https://github.com/yokshith09/WeedPlucker-YOLOv8-Intelligent-Weed-Detection-Robotic-Plucking-System"><text x="60" y="874" class="mono label green">➜</text><text x="96" y="874" class="mono label orange">WeedPlucker</text></a><text x="220" y="874" class="mono small white">Computer vision &amp; weed detection</text>
+<a xlink:href="https://github.com/yokshith09/PasswordPal_Frontend"><text x="60" y="901" class="mono label green">➜</text><text x="96" y="901" class="mono label orange">PasswordPal</text></a><text x="220" y="901" class="mono small white">Privacy-focused password manager</text>
+
+<text x="816" y="728" class="mono heading cyan">▥ GitHub Stats</text>
+<text x="816" y="770" class="mono label orange">Repositories</text><text x="1108" y="770" text-anchor="end" class="mono body cyan">View repos ↗</text>
+<text x="816" y="806" class="mono label orange">Commits</text><text x="1108" y="806" text-anchor="end" class="mono body cyan">View activity ↗</text>
+<text x="816" y="842" class="mono label orange">Stars</text><text x="1108" y="842" text-anchor="end" class="mono body cyan">View repos ↗</text>
+<text x="816" y="878" class="mono label orange">Activity</text><text x="1108" y="878" text-anchor="end" class="mono body cyan">View profile ↗</text>
+
+<text x="1196" y="728" class="mono heading cyan">‹/› Language Overview</text>
+<circle cx="1205" cy="765" r="7" fill="#168cff"/><text x="1224" y="771" class="mono body white">Python</text><rect x="1325" y="754" width="180" height="14" rx="7" fill="#142638"/><rect x="1325" y="754" width="124" height="14" rx="7" fill="#168cff"><animate attributeName="width" values="0;124" dur="1.3s" fill="freeze"/></rect>
+<circle cx="1205" cy="798" r="7" fill="#1ba9df"/><text x="1224" y="804" class="mono body white">TypeScript</text><rect x="1325" y="787" width="180" height="14" rx="7" fill="#142638"/><rect x="1325" y="787" width="94" height="14" rx="7" fill="#1ba9df"><animate attributeName="width" values="0;94" dur="1.3s" begin=".15s" fill="freeze"/></rect>
+<circle cx="1205" cy="831" r="7" fill="#f3d34a"/><text x="1224" y="837" class="mono body white">JavaScript</text><rect x="1325" y="820" width="180" height="14" rx="7" fill="#142638"/><rect x="1325" y="820" width="73" height="14" rx="7" fill="#f3d34a"><animate attributeName="width" values="0;73" dur="1.3s" begin=".3s" fill="freeze"/></rect>
+<circle cx="1205" cy="864" r="7" fill="#ef6338"/><text x="1224" y="870" class="mono body white">Others</text><rect x="1325" y="853" width="180" height="14" rx="7" fill="#142638"/><rect x="1325" y="853" width="60" height="14" rx="7" fill="#ef6338"><animate attributeName="width" values="0;60" dur="1.3s" begin=".45s" fill="freeze"/></rect>
+<line x1="355" y1="954" x2="580" y2="954" class="rule"/><text x="800" y="961" text-anchor="middle" class="mono" font-size="19" fill="#9bb4ca" font-style="italic">Building useful things with code and AI.</text><line x1="1020" y1="954" x2="1245" y2="954" class="rule"/>
+</svg>
