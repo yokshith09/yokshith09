@@ -1,195 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,55:16103A,100:0D1117&height=155&section=header&text=Yokshith%20Kuchipudi&fontSize=46&fontColor=E6EDF3&fontAlignY=44&desc=AI%20Application%20Developer%20%E2%80%94%20Full-Stack%20%2B%20LLM%20Integration&descSize=14&descColor=7C6AFE&descAlignY=68" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=520&height=85&lines=Yokshith+Kuchipudi;AI+%26+Software+Builder;Full-Stack+%7C+Desktop+%7C+AI;Building+useful+things." alt="Animated name and developer roles" />
 
-</div>
+<p><code>yokshith@github:~$ whoami</code></p>
 
-<br>
+<strong>Computer Science Undergraduate · Amrita Vishwa Vidyapeetham · Class of 2027</strong>
 
-<div align="center">
+Building practical software across <strong>AI applications, full-stack systems, desktop apps, robotics simulation, and cloud observability</strong>.
 
-![Status](https://img.shields.io/badge/Open_to_Work-%7C_Collaborate_%7C_Freelance-7C6AFE?style=flat-square&logo=statuspage&logoColor=white)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C6AFE?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yokshith-kuchipudi-67a0452b3/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-7C6AFE?style=flat-square&logo=gmail&logoColor=white)](mailto:yokshithkuchipudi09@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-7C6AFE?style=flat-square&logo=github&logoColor=white)](https://github.com/yokshith09)
+<a href="https://github.com/yokshith09"><img src="https://img.shields.io/badge/OPEN_TO-Work%20%7C%20Collaboration%20%7C%20Freelance-238636?style=flat-square" alt="Open to work, collaboration and freelance" /></a>
+<a href="https://www.linkedin.com/in/yokshith-kuchipudi-67a0452b3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:yokshithkuchipudi09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
-
-Computer Science student at Amrita Vishwa Vidyapeetham (Class of 2027) building practical AI applications and full-stack software. My recent work spans **LLM integration, RAG, embeddings, vector search, AI agents, multimodal AI, computer vision, and API-driven software development**.
-
-I like turning real problems into working software — from AI-powered products and automation workflows to full-stack applications. I am open to **internships, freelance projects, collaborations, and building products with people who want to solve meaningful problems**.
-
-My long-term focus is **entrepreneurship**: learning by building, understanding real user needs, and turning useful software ideas into products that can create real-world value.
-
----
-
-## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### DRIP — AI Fashion Fitting Room
+### <code>01 / CURRENT FOCUS</code>
 
-AI-powered fashion application combining **virtual try-on, personalized outfit recommendations, product discovery, and an AI stylist**.
-
-> **The hard part:** Connecting multiple external AI providers and designing fallback behaviour for provider failures and rate limits while keeping the product experience usable.
-
-![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=google&logoColor=4285F4)
-![Replicate](https://img.shields.io/badge/Replicate-161B22?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### WearShare — P2P Clothing Rental
-
-Full-stack neighbourhood rental marketplace with **listings, bookings, payments, dashboards, reviews, and Wren**, a Gemini-powered RAG assistant.
-
-> **The hard part:** Connecting application data to retrieval context and keeping AI responses grounded in listings, bookings, and reviews through embeddings + pgvector.
-
-![Gemini](https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=google&logoColor=4285F4)
-![Supabase](https://img.shields.io/badge/Supabase_pgvector-161B22?style=flat-square&logo=supabase&logoColor=3ECF60)
-![RAG](https://img.shields.io/badge/RAG_Pipeline-161B22?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### SymBioForge — Autonomous Multi-Agent AI Platform
-
-AI-powered industrial-symbiosis platform using **8 specialized agents** to register factories, classify waste, discover resource matches, generate product concepts, validate impact, design manufacturing pathways, and monitor system health.
-
-> **The hard part:** Coordinating a multi-stage AI workflow where specialized agents pass structured results through an automated pipeline, with monitoring and recovery built around the workflow.
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-161B22?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-161B22?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Workflows-161B22?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### WeedPlucker — Computer Vision for Precision Agriculture
-
-YOLOv8-based crop/weed detection and segmentation pipeline designed to turn camera input into object coordinates for downstream robotic action.
-
-> **The hard part:** Building the complete vision pipeline from dataset preparation and augmentation through segmentation inference and quantitative evaluation.
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-161B22?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-161B22?style=flat-square)
+<pre>
+AI systems        → LLM apps, RAG, AI agents
+Product building → Full-stack web applications
+Desktop           → Rust, Tauri, React, TypeScript
+Robotics          → SLAM, perception, CoppeliaSim
+Cloud             → GCP, logs, monitoring, cost
+Networking        → Software-Defined Networking
+Automation        → AI tools, Apify, API workflows
+</pre>
 
 </td>
 <td width="50%" valign="top">
 
-### PasswordPal — Privacy-Focused Password Manager
+### <code>02 / DEVELOPER PROFILE</code>
 
-Security-focused password manager with a local-first vault and backend authentication workflows.
-
-> **The hard part:** Designing secure application workflows around encrypted vault data, authentication, MFA, session management, and database-backed user accounts.
-
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Security](https://img.shields.io/badge/Security-161B22?style=flat-square)
-![MFA](https://img.shields.io/badge/MFA-161B22?style=flat-square)
+<pre>
+Education  : CSE, Amrita Vishwa Vidyapeetham
+Graduation : 2027
+Languages  : Python, JavaScript, TypeScript, SQL
+Also using : Rust, HTML, CSS
+Interests  : AI engineering, systems, robotics
+Mindset    : Build → test → improve → ship
+</pre>
 
 </td>
 </tr>
 </table>
 
----
+## <code>03 / SELECTED PROJECTS</code>
 
-## Skills & Tools
 <table>
 <tr>
-<th align="left" width="33%">Languages</th>
-<th align="left" width="33%">AI · ML</th>
-<th align="left" width="34%">Tools · Platforms</th>
+<td width="50%" valign="top">
+
+### [Autonomous Quadruped SLAM](https://github.com/yokshith09/Autonomous-Quadruped-SLAM-Navigation-Perception)
+
+Closed-loop SLAM and multi-agent exploration for a quadruped robot in **CoppeliaSim**. Includes mapping, ICP-based localization, room segmentation, semantic extraction, frontier planning, and evaluation metrics.
+
+<sub>Python · CoppeliaSim · SLAM · OpenCV · Robotics</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Loaf — Desktop Companion](https://github.com/yokshith09/DESKTOP-PRODUCTIVITY-TRACKER)
+
+A local-first Windows/macOS desktop companion for notes, tasks, meetings, daily work logs, and a desktop pet. Built with a modular Rust core and a thin Tauri desktop shell.
+
+<sub>Rust · Tauri v2 · React · TypeScript</sub>
+
+</td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
+### [SymBioForge](https://github.com/yokshith09/SymBioforge-NitroStack-MCP)
 
-</td>
-<td valign="top">
+An industrial-symbiosis platform using specialized AI agents to match factory waste with useful resources, propose circular products, create manufacturing plans, and support compliance workflows. Includes an MCP server and web dashboard.
 
-Gemini API · Groq API<br>
-RAG · Embeddings · pgvector<br>
-Prompt Engineering<br>
-AI Agents · MCP<br>
-Computer Vision · YOLOv8<br>
-Deep Learning · LLM APIs
+<sub>AI Agents · MCP · TypeScript · Next.js · LLMs</sub>
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-Git · GitHub · VS Code<br>
-Next.js · Node.js · Flask<br>
-PostgreSQL · Supabase<br>
-MongoDB · SQLite<br>
-Vercel · Render<br>
-REST APIs · API Integration
+### [OpsMind / Vantage — GCP Observability](https://github.com/yokshith09/OpsMind--GCP)
+
+Cloud monitoring and cost-visibility tools for Google Cloud. Brings together logs, metrics, error groups, incidents, resource usage, modeled spend, anomaly insights, and actionable remediation guidance.
+
+<sub>GCP · Cloud Run · Cloud Logging · Cloud Monitoring · FastAPI</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [WearShare](https://github.com/yokshith09/WEARSHARE-APP)
+
+A peer-to-peer clothing rental marketplace with listings, bookings, payments, renter/lister dashboards, authentication, and an AI assistant grounded in listing data using RAG and vector search.
+
+<sub>Next.js · Supabase · pgvector · Gemini · Groq</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [DRIP — AI Fashion & Virtual Try-On](https://github.com/yokshith09/DRIP---AI-3D-VIRTUAL-TRY-ON-WEB)
+
+Fashion e-commerce experience combining an AI fitting-room workflow, virtual try-on integrations, product discovery, and personalized style recommendations.
+
+<sub>React · Next.js · Supabase · Replicate · AI APIs</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [STALKERS — Web Tracking Transparency](https://github.com/yokshith09/ROT-METER)
+
+A website and browser-extension concept designed to show people which companies may observe them across the pages they visit.
+
+<sub>JavaScript · Browser Extension · Node.js · Privacy</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [CollabSpace](https://github.com/yokshith09/COLLAB-SPACE)
+
+An AI-augmented workspace for validating ideas, generating product requirements, creating architecture diagrams, organizing tasks, and matching collaborators.
+
+<sub>Next.js · TypeScript · MongoDB · Gemini</sub>
 
 </td>
 </tr>
 </table>
 
-### Core Engineering Skills
+<details>
+<summary><strong>More projects</strong></summary>
 
-`REST APIs` · `API Integration` · `RAG Pipelines` · `Vector Search` · `Prompt Engineering` · `Authentication` · `Database Design` · `Backend Development` · `Debugging` · `Problem Solving` · `AI-Assisted Development`
----
+- [PasswordPal](https://github.com/yokshith09/PasswordPal_Frontend) — privacy-focused password manager; frontend and backend repositories.
+- [WeedPlucker](https://github.com/yokshith09/WeedPlucker-YOLOv8-Intelligent-Weed-Detection-Robotic-Plucking-System) — YOLOv8-based crop/weed detection for precision agriculture.
+- [HireNudge](https://github.com/yokshith09/HireNudge---MMP---AI-JOB-MATCHER-) — AI-assisted resume/job matching and cover-letter drafting.
+- [ReplyDaddy](https://github.com/yokshith09/ReplyDaddy--Reddit-marketing-tool-MMP-demo) — AI-assisted Reddit post relevance scoring and reply drafting.
+- [StaySync](https://github.com/yokshith09/StaySync---DEMO-APPLICATION-) — e-commerce/order-management demo designed to generate structured operational telemetry for cloud monitoring.
+- [T-Global Assignment](https://github.com/yokshith09/T-GLOBAL-ASSIGNMENT) — full-stack gold-loan intake portal with validated calculations and an AI chat workflow.
 
-## Now
-
-```text
-Building     →  Software that solves real problems and can become real products
-Open to      →  Work · Collaborations · Freelance projects · Product ideas
-Learning     →  Python, JavaScript, LLM fundamentals and machine learning
-Exploring    →  Computer vision, multimodal AI and production AI workflows
-Improving    →  Software engineering, APIs, databases, debugging
-Focusing    →  Entrepreneurship, product thinking and real-world impact
-```
+</details>
 
 ---
+
+## <code>04 / SKILLS & TOOLBOX</code>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**AI / LLM Engineering**
+
+- LLM API integration and prompt design
+- Retrieval-Augmented Generation (RAG)
+- Embeddings and vector search (pgvector)
+- AI agents and multi-step workflows
+- Model/provider integration and fallbacks
+- Model Context Protocol (MCP)
+- AI-assisted product features
+
+**AI tools & services**
+
+- Google Gemini
+- Groq
+- Hugging Face
+- Replicate
+- Apify
+- Other model APIs and developer AI tools
+
+</td>
+<td width="50%" valign="top">
+
+**Full-Stack & Data**
+
+- Python, JavaScript, TypeScript, SQL
+- React, Next.js, Node.js, Express, FastAPI, Flask
+- REST APIs, authentication, validation, integrations
+- PostgreSQL, Supabase, MongoDB, SQLite, Firestore
+- Tailwind CSS, HTML, CSS
+
+**Desktop, Cloud & Systems**
+
+- Rust, Tauri v2, desktop application architecture
+- Google Cloud Platform (GCP), Cloud Run
+- Cloud Logging, Cloud Monitoring, cloud cost visibility
+- CoppeliaSim, SLAM, computer vision, YOLOv8
+- Software-Defined Networking (SDN)
+- Git, GitHub, VS Code, testing and debugging
+
+</td>
+</tr>
+</table>
+
+## <code>05 / GITHUB ACTIVITY</code>
 
 <div align="center">
 
-### Open to Work · Collaborate · Freelance · Build
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yokshith09&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokshith09&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
 
-**AI Applications · RAG · AI Agents · Full-Stack Development · Computer Vision · Product Engineering**
-
-<br>
-
-[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/yokshith09)
+<img src="https://streak-stats.demolab.com?user=yokshith09&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Amrita Vishwa Vidyapeetham &nbsp;·&nbsp; CSE 2027 &nbsp;·&nbsp; Building software that solves real problems</sub>
+
+<pre>Open to: internships · collaborations · freelance · product building</pre>
+
+**Interested in solving real problems and turning useful ideas into software.**
+
+<sub>AI Applications · Full-Stack Engineering · Desktop Software · Robotics · Cloud Systems</sub>
+
 </div>
