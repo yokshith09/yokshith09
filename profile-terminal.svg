@@ -13,6 +13,7 @@
  @keyframes reveal{0%{opacity:.25;transform:translateX(-8px)}100%{opacity:1;transform:translateX(0)}}
  @keyframes panelIn{0%{opacity:0;transform:translateY(10px)}100%{opacity:1;transform:translateY(0)}}
  @keyframes barFill{0%{transform:scaleX(.05);opacity:.4}100%{transform:scaleX(1);opacity:1}}
+ text{animation:reveal .65s ease-out both}
  .name{animation:glowPulse 2.4s ease-in-out infinite}
  .cursor{animation:cursorBlink 1s steps(1,end) infinite}
  .role1{animation:reveal .7s ease-out .15s both}.role2{animation:reveal .7s ease-out .45s both}
