@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Lights out. Let's build."><title>Lights out. Let's build.</title><defs>
+  <pattern id="f-carbon" width="8" height="8" patternUnits="userSpaceOnUse">
+    <rect width="8" height="8" fill="#0b0b0d"/>
+    <rect width="4" height="4" fill="#141519"/><rect x="4" y="4" width="4" height="4" fill="#141519"/>
+  </pattern>
+  <pattern id="f-check" width="16" height="16" patternUnits="userSpaceOnUse">
+    <rect width="16" height="16" fill="#f5f5f5"/>
+    <rect width="8" height="8" fill="#111"/><rect x="8" y="8" width="8" height="8" fill="#111"/>
+  </pattern>
+  <radialGradient id="f-sheen" cx=".3" cy="0" r="1.1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".07"/>
+    <stop offset=".6" stop-color="#000" stop-opacity="0"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".55"/>
+  </radialGradient>
+  <linearGradient id="f-hot" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ff1e1e"/><stop offset=".55" stop-color="#ff6a00"/>
+    <stop offset="1" stop-color="#ffd200"/>
+  </linearGradient>
+  <filter id="f-glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter></defs><rect x="1" y="1" width="1198" height="258" rx="14" fill="url(#f-carbon)"/><rect x="1" y="1" width="1198" height="258" rx="14" fill="url(#f-sheen)" stroke="#2a2b31" stroke-width="2"/><rect x="1" y="1" width="1198" height="12" fill="url(#f-check)" opacity=".85"/><rect x="1" y="247" width="1198" height="12" fill="url(#f-check)" opacity=".85"/><line x1="0" y1="70" x2="80" y2="70" stroke="#f5f5f5" stroke-opacity=".35" stroke-width="1" stroke-linecap="round"><animateTransform attributeName="transform" type="translate" values="1200 0;-80 0" dur="0.90s" begin="0.00s" repeatCount="indefinite"/></line><line x1="0" y1="96" x2="117" y2="96" stroke="#f5f5f5" stroke-opacity=".35" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="translate" values="1200 0;-117 0" dur="1.13s" begin="0.17s" repeatCount="indefinite"/></line><line x1="0" y1="150" x2="154" y2="150" stroke="#f5f5f5" stroke-opacity=".35" stroke-width="1" stroke-linecap="round"><animateTransform attributeName="transform" type="translate" values="1200 0;-154 0" dur="1.36s" begin="0.34s" repeatCount="indefinite"/></line><line x1="0" y1="176" x2="191" y2="176" stroke="#f5f5f5" stroke-opacity=".35" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="translate" values="1200 0;-191 0" dur="1.59s" begin="0.51s" repeatCount="indefinite"/></line><line x1="0" y1="204" x2="108" y2="204" stroke="#f5f5f5" stroke-opacity=".35" stroke-width="1" stroke-linecap="round"><animateTransform attributeName="transform" type="translate" values="1200 0;-108 0" dur="1.02s" begin="0.68s" repeatCount="indefinite"/></line><g transform="skewX(-12)"><text x="660" y="112" text-anchor="middle" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="900" fill="#f5f5f5">LIGHTS OUT. <tspan fill="url(#f-hot)">LET'S BUILD.</tspan></text></g><text x="600" y="150" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="15" fill="#e5e7eb">Open to AI / software engineering internships, collaborations &amp; hackathon teams</text><text x="600" y="215" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#9ca3af" letter-spacing="4">— CHEQUERED FLAG —</text><g transform="translate(70 50)">
+  <rect x="-4" y="-6" width="4" height="124" rx="2" fill="#9ca3af"/>
+  <path d="M0 0 C 27 -8, 53 8, 80 0 L 80 54 C 53 62, 27 46, 0 54 Z" fill="url(#f-check)" stroke="#000" stroke-opacity=".4">
+    <animate attributeName="d" values="M0 0 C 27 -8, 53 8, 80 0 L 80 54 C 53 62, 27 46, 0 54 Z;M0 0 C 27 8, 53 -8, 80 0 L 80 54 C 53 46, 27 62, 0 54 Z;M0 0 C 27 -8, 53 8, 80 0 L 80 54 C 53 62, 27 46, 0 54 Z" dur="1.4s" repeatCount="indefinite"/></path>
+</g><g transform="translate(1060 50)">
+  <rect x="-4" y="-6" width="4" height="124" rx="2" fill="#9ca3af"/>
+  <path d="M0 0 C 27 -8, 53 8, 80 0 L 80 54 C 53 62, 27 46, 0 54 Z" fill="url(#f-check)" stroke="#000" stroke-opacity=".4">
+    <animate attributeName="d" values="M0 0 C 27 -8, 53 8, 80 0 L 80 54 C 53 62, 27 46, 0 54 Z;M0 0 C 27 8, 53 -8, 80 0 L 80 54 C 53 46, 27 62, 0 54 Z;M0 0 C 27 -8, 53 8, 80 0 L 80 54 C 53 62, 27 46, 0 54 Z" dur="1.7s" repeatCount="indefinite"/></path>
+</g></svg>
